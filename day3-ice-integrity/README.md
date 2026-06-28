@@ -6,7 +6,7 @@ Detects if a file has been tampered with by comparing its
 current SHA-256 hash against a previously saved hash.
 
 ## Hashing vs Encryption
-
+ 
 - **Hashing** is a one-way process — you cannot reverse a hash 
   back to the original data. Used to verify integrity.
 - **Encryption** is reversible — data can be decrypted with 
