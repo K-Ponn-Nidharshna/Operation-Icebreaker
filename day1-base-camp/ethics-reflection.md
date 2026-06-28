@@ -6,7 +6,7 @@ cybersecurity knowledge and tools. Cybersecurity professionals must
 respect privacy, follow laws, and obtain proper authorization before 
 testing or accessing any system.
 
-Key ethical principles include:
+Key ethical principles include: 
 
 1. **Authorization First** – Never access, scan, or test systems 
    without explicit permission.
