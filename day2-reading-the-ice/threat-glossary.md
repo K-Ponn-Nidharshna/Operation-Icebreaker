@@ -1,6 +1,6 @@
 # Threat Glossary — Reading the Ice
 **Operation IceBreaker | Day 2 | K. Ponn Nidharshna**
-
+ 
 ## CIA Triad
 
 1. **Confidentiality** – Ensuring that information is only accessible 
