@@ -11,7 +11,7 @@ gives actionable feedback.
 - Mix of uppercase and lowercase letters
 - Contains numbers
 - Contains special characters (!@#$...)
-- Not a commonly used password
+- Not a commonly used password 
 
 ## Why Weak Passwords Fail
 Attackers use brute force and dictionary attacks to 
