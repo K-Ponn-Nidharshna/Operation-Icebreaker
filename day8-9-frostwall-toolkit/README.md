@@ -1,5 +1,5 @@
 # Frostwall Toolkit — Operation IceBreaker
-**Days 8–9 | K. Ponn Nidharshna 
+*Days 8–9 | K. Ponn Nidharshna* 
 
 ## What is Frostwall?
 A menu-driven command-line security toolkit combining 
